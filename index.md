@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include 01-titles.md %}
+{% include 01-Titles.md %}
